@@ -1,9 +1,10 @@
 
 
-# Comment by Jun Meng
+### Comment by Jun Meng
 I have forked this repository from https://github.com/aimacode/aima-python, and added files that containing my submission .ipynb scripts.
 To run my code, please copy the .ipynb files from the corresponding files "junmeng_gki21_xxx", then paste them to the root directory "aima-python" and replace the existing blank homework template.
-## scrolling down to read the guidance
+
+## the following are the project guidance
 
 # `aima-python` [![Build Status](https://travis-ci.org/aimacode/aima-python.svg?branch=master)](https://travis-ci.org/aimacode/aima-python) [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/aimacode/aima-python)
 
