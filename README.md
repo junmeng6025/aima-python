@@ -7,7 +7,8 @@ To run my code, please copy the .ipynb files from the corresponding folder "junm
 
 I edited my scripts with jupyter-notebook on Ubuntu 20.04
 
-## the following are the project guidance
+
+### the following are the project guidance
 
 # `aima-python` [![Build Status](https://travis-ci.org/aimacode/aima-python.svg?branch=master)](https://travis-ci.org/aimacode/aima-python) [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/aimacode/aima-python)
 
