@@ -1,6 +1,6 @@
 
 ### Comment by Jun Meng
-I forked this repository from https://github.com/aimacode/aima-python, and added files that containing my submitted .ipynb scripts.
+I forked this repository from https://github.com/aimacode/aima-python, and uploaded the folders that contain my submitted .ipynb scripts.
 
 To run my code, please copy the .ipynb files from the corresponding folder "junmeng_gki21_xxx", then paste them to the root directory "aima-python" and replace the existing blank homework script templates.
 
